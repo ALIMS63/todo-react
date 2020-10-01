@@ -10,7 +10,7 @@ const useStyles = makeStyles((theme) => ({
   root: {
     margin: theme.spacing(1),
     marginRight: '5px',
-    minWidth: '1505px',
+    minWidth: '1485px',
   },
   button: {
     marginTop: theme.spacing(1),
