@@ -1,7 +1,7 @@
 # ***TODO*** 
 
 ### Имеются возможности добавления, изменения статуса и удаления задач:
-![screenshot](readme-assets/account.gif)
+![screenshot](readme-assets/TODO.jpeg)
 
 ### Установка и запуск приложения:
 > В папке front команда yarn, затем yarn start <br/>
